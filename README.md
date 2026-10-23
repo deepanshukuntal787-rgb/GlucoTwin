@@ -802,7 +802,7 @@ GlucoTwin is a research prototype and proof of concept.
 - **Master Video Artifact**: [`glucotwin_demo_presentation.mp4`](glucotwin_demo_presentation.mp4) (1080p Full HD, 17:21 runtime, 32 MB)
 - **Synchronized Subtitles (.srt)**: [`docs/glucotwin_demo_subtitles.srt`](docs/glucotwin_demo_subtitles.srt)
 - **Word-for-Word Script & Timestamps**: [`docs/DEMO_VIDEO_SCRIPT.md`](docs/DEMO_VIDEO_SCRIPT.md)
-- **YouTube Stream**: `[https://youtu.be/HInr9EbNin0]`
+- **YouTube Stream**: https://youtu.be/HInr9EbNin0
 
 ### Architecture Diagram
 
