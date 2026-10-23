@@ -19,8 +19,8 @@ import type {
   WhatIfRequest,
 } from '@/types/schema';
 
-const USE_MOCK = true;
-const BASE_URL = 'http://localhost:8000/api/v1';
+const USE_MOCK = import.meta.env.VITE_USE_MOCK === 'true';
+const BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000/api/v1';
 
 async function apiFetch<T>(path: string, init?: RequestInit): Promise<T> {
   const res = await fetch(`${BASE_URL}${path}`, {

@@ -1,0 +1,101 @@
+patient_id,age,sex,bmi,hba1c_pct,diabetes_type,diabetes_duration_years,medications,comorbidities
+P001,57,F,35.9,7.6,Type 2,5,Metformin+Sulfonylurea; ACE inhibitor,HTN
+P002,62,M,33.8,6.7,Type 2,6,Metformin+DPP4,HTN
+P003,57,F,28.3,6.4,Type 2,8,Metformin; Statin,"Dyslipidemia, CAD"
+P004,49,M,25.1,6.7,Type 2,7,Sulfonylurea,"CKD, Neuropathy"
+P005,35,F,28.2,10.2,Type 2,5,Metformin+Insulin; ACE inhibitor,"HTN, Neuropathy"
+P006,54,M,32.8,8.4,Type 2,19,Metformin+DPP4,HTN
+P007,53,M,30.8,7.8,Type 2,21,Metformin+Sulfonylurea,Neuropathy
+P008,61,M,31.1,8.4,Type 2,5,Metformin+Insulin; Statin,"Dyslipidemia, Obesity"
+P009,72,M,25.2,7.3,Type 2,10,Metformin,HTN
+P010,31,F,22.0,8.9,Type 2,4,Metformin+Sulfonylurea,None
+P011,43,F,29.0,7.0,Type 2,5,Metformin,None
+P012,78,F,40.6,9.6,Type 2,8,Insulin,Obesity
+P013,51,F,33.8,7.9,Type 2,8,Metformin+Insulin,None
+P014,67,F,25.5,8.4,Type 2,6,Metformin+Sulfonylurea,None
+P015,38,F,21.6,7.2,Type 2,9,Metformin,None
+P016,52,M,28.8,5.8,Type 2,3,Metformin+Sulfonylurea,None
+P017,55,M,18.5,10.4,Type 2,3,Metformin+Insulin; Statin,Dyslipidemia
+P018,58,M,31.8,8.3,Type 2,8,Metformin+Insulin,None
+P019,52,M,34.4,9.0,Type 2,13,Metformin+Insulin; ACE inhibitor,HTN
+P020,50,F,37.5,6.9,Type 2,9,Metformin; Statin,Dyslipidemia
+P021,58,M,31.9,8.3,Type 2,14,Metformin+DPP4,None
+P022,60,M,26.0,6.8,Type 2,1,Metformin,Neuropathy
+P023,41,F,27.9,7.9,Type 1,1,Insulin; ACE inhibitor,HTN
+P024,47,F,24.8,7.6,Type 1,6,Insulin; ACE inhibitor,HTN
+P025,55,M,32.7,7.2,Type 2,20,Metformin; Statin,"Dyslipidemia, Obesity, CKD"
+P026,50,M,26.2,6.4,Type 2,21,Metformin,"CKD, Neuropathy"
+P027,79,F,23.5,6.7,Type 2,9,Metformin; Statin,"HTN, Dyslipidemia, CKD"
+P028,56,M,33.4,9.2,Type 2,4,Metformin+Sulfonylurea+Insulin,None
+P029,41,M,29.0,8.6,Type 2,0,Metformin+DPP4,None
+P030,47,F,32.3,6.2,Type 2,3,Metformin,Obesity
+P031,51,M,34.4,9.3,Type 2,2,Metformin+Insulin,None
+P032,39,F,39.0,7.4,Type 2,4,Metformin+Sulfonylurea,CAD
+P033,51,F,35.0,5.8,Type 2,4,Metformin+DPP4; ACE inhibitor,"HTN, CAD"
+P034,56,M,24.0,5.9,Type 2,10,Metformin+Sulfonylurea; ACE inhibitor,HTN
+P035,68,M,30.7,8.0,Type 2,11,Metformin+Insulin,Obesity
+P036,42,F,35.0,8.2,Type 1,8,Insulin,None
+P037,59,M,24.2,8.7,Type 2,8,Metformin+SGLT2,None
+P038,56,F,33.6,7.5,Type 2,1,Metformin+DPP4; Statin,"Dyslipidemia, Obesity"
+P039,51,F,35.3,6.2,Type 2,6,Metformin+DPP4,Obesity
+P040,58,M,22.5,9.8,Type 2,12,Metformin+Sulfonylurea+Insulin,None
+P041,49,M,32.6,7.5,Type 1,7,Insulin,None
+P042,44,F,30.7,6.1,Type 2,6,Metformin,"HTN, Obesity"
+P043,66,F,25.4,7.8,Type 2,1,Metformin+Sulfonylurea; ACE inhibitor; Statin,"HTN, Dyslipidemia"
+P044,53,M,32.7,9.5,Type 2,2,Insulin,HTN
+P045,59,F,37.4,7.3,Type 2,12,Metformin,None
+P046,55,F,28.5,9.2,Type 2,2,Metformin+Sulfonylurea+Insulin,Dyslipidemia
+P047,56,F,41.3,7.4,Type 2,8,DPP4,CKD
+P048,29,F,34.8,6.2,Type 2,2,None,None
+P049,66,F,27.2,6.9,Type 2,8,Metformin+DPP4,"HTN, Dyslipidemia"
+P050,54,F,24.9,7.8,Type 2,4,Metformin+Sulfonylurea,None
+P051,58,F,31.7,6.9,Type 2,21,Metformin,"Obesity, CKD"
+P052,48,M,26.5,6.6,Type 2,4,Metformin; Statin,"Dyslipidemia, Neuropathy"
+P053,73,M,36.9,9.9,Type 2,4,Metformin+Insulin; ACE inhibitor; Statin,"HTN, Dyslipidemia"
+P054,52,F,26.4,7.0,Type 2,11,Metformin,CKD
+P055,34,F,25.4,10.6,Type 2,15,Insulin,Neuropathy
+P056,48,F,32.1,6.7,Type 2,10,Metformin,"HTN, Neuropathy"
+P057,46,F,35.9,7.3,Type 2,2,Metformin,Obesity
+P058,83,F,39.0,6.1,Type 2,6,Sulfonylurea; ACE inhibitor; Statin,"HTN, Dyslipidemia, CKD"
+P059,55,F,24.7,8.5,Type 2,9,Metformin+DPP4; ACE inhibitor,HTN
+P060,59,F,26.2,9.9,Type 2,7,Insulin; ACE inhibitor,HTN
+P061,60,M,38.3,6.9,Type 2,8,Metformin+DPP4,Dyslipidemia
+P062,39,F,30.9,9.5,Type 2,16,Metformin+Sulfonylurea+Insulin; Statin,"HTN, Dyslipidemia, Obesity"
+P063,82,M,30.9,6.2,Type 2,10,Metformin+DPP4,"HTN, Obesity, CKD"
+P064,64,M,31.1,8.0,Type 2,3,Metformin+DPP4; Statin,"Dyslipidemia, CKD"
+P065,51,F,22.5,8.0,Type 2,6,Metformin+DPP4,None
+P066,57,F,26.2,8.2,Type 2,2,Metformin+SGLT2,None
+P067,68,F,24.7,7.3,Type 2,6,Metformin+Sulfonylurea,None
+P068,65,F,23.0,9.6,Type 2,12,Insulin; Statin,"HTN, Dyslipidemia, CKD"
+P069,83,M,32.1,7.8,Type 2,14,Metformin+Sulfonylurea,HTN
+P070,70,M,28.9,7.0,Type 2,2,Metformin+DPP4,None
+P071,61,F,18.5,9.2,Type 2,5,Insulin,None
+P072,53,F,30.1,7.6,Type 2,5,Metformin+Sulfonylurea; ACE inhibitor; Statin,"HTN, Dyslipidemia"
+P073,41,F,18.5,8.5,Type 2,11,Metformin+Sulfonylurea,None
+P074,69,M,26.7,8.0,Type 2,15,DPP4,CKD
+P075,57,F,29.4,8.2,Type 2,10,Metformin+Sulfonylurea,HTN
+P076,55,F,29.0,7.2,Type 2,6,Metformin+Sulfonylurea,CAD
+P077,72,M,44.6,6.6,Type 2,8,Metformin+Sulfonylurea,None
+P078,59,M,27.8,7.0,Type 2,6,Metformin+DPP4,None
+P079,44,M,30.8,9.4,Type 2,6,Metformin+Sulfonylurea+Insulin,HTN
+P080,46,M,26.3,6.6,Type 2,9,Metformin+Sulfonylurea,None
+P081,60,M,29.8,7.5,Type 2,5,Metformin+Insulin,None
+P082,64,M,26.8,6.7,Type 2,9,Metformin+DPP4; Statin,Dyslipidemia
+P083,63,F,28.9,8.8,Type 2,17,Metformin+DPP4,None
+P084,56,M,27.5,7.0,Type 2,6,Metformin+Sulfonylurea; Statin,Dyslipidemia
+P085,66,M,36.8,5.9,Type 2,5,Metformin+Sulfonylurea,"HTN, Obesity"
+P086,35,M,33.3,7.3,Type 2,6,Metformin+DPP4,None
+P087,44,M,28.1,6.3,Type 2,1,Metformin,None
+P088,61,F,33.1,5.8,Type 2,2,Metformin; Statin,"HTN, Dyslipidemia"
+P089,50,F,32.1,7.1,Type 2,7,Metformin+Sulfonylurea,None
+P090,66,F,32.3,6.3,Type 2,2,Metformin,Dyslipidemia
+P091,47,F,25.1,9.8,Type 1,6,Insulin,None
+P092,67,M,25.2,8.7,Type 2,5,Metformin+SGLT2; ACE inhibitor; Statin,"HTN, Dyslipidemia"
+P093,54,M,28.8,9.0,Type 2,13,Insulin; Statin,"HTN, Dyslipidemia"
+P094,34,F,30.8,6.3,Type 2,12,Metformin,None
+P095,46,M,28.7,8.4,Type 2,2,Metformin+DPP4,None
+P096,53,F,28.7,6.1,Type 2,1,None,HTN
+P097,72,F,18.5,6.2,Type 2,15,Metformin+DPP4,Dyslipidemia
+P098,57,F,20.8,7.7,Type 2,3,Metformin+Sulfonylurea,None
+P099,68,F,32.9,6.9,Type 2,14,DPP4,"HTN, CKD, Neuropathy"
+P100,47,F,26.3,7.8,Type 2,5,Sulfonylurea,"CKD, Neuropathy, CAD"

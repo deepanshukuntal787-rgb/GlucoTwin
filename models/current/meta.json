@@ -1,0 +1,55 @@
+{
+  "model_name": "FusionTwinNet",
+  "version": "1.0.0",
+  "timestamp": "2026-10-22T20:00:55Z",
+  "architecture": {
+    "type": "Dual-Stream Multimodal GRU with Future Covariate Decoder",
+    "trainable_parameters": 291140,
+    "static_channels": 21,
+    "dynamic_channels": 16,
+    "covariate_channels": 5,
+    "hidden_dim": 128
+  },
+  "event_classification": {
+    "auroc": 0.9978,
+    "auprc": 0.8544,
+    "prevalence": 0.0124,
+    "brier_score": 0.0039,
+    "ece": 0.0009,
+    "alert_threshold": 0.096,
+    "sensitivity": 0.9349,
+    "specificity": 0.9908,
+    "precision": 0.5609,
+    "avg_lead_time_minutes": 45.3,
+    "median_lead_time_minutes": 45.0
+  },
+  "trajectory_forecasting": {
+    "rmse_30min": 11.98,
+    "rmse_60min": 12.54,
+    "rmse_120min": 12.59,
+    "mae_60min": 9.81,
+    "p10_p90_coverage_60min": 74.2
+  },
+  "what_if_monotonicity": {
+    "carb_monotonic_pct": 96.0,
+    "step_monotonic_pct": 95.0,
+    "target_achieved": true
+  },
+  "personalization": {
+    "base_rmse": 15.28,
+    "adapted_rmse": 14.72,
+    "delta_rmse": 0.56
+  },
+  "benchmark_comparison": {
+    "lightgbm_baseline": {
+      "auroc": 0.9648,
+      "auprc": 0.1863,
+      "rmse_60min": 13.5
+    },
+    "fusion_twin_net": {
+      "auroc": 0.9978,
+      "auprc": 0.8544,
+      "rmse_60min": 12.54
+    }
+  }
+}

@@ -38,6 +38,7 @@ export interface DataCompleteness {
 export interface PatientSummary {
   id: string;
   name: string;
+  mrn?: string;
   age: number;
   sex: 'M' | 'F';
   diabetes_type: 'T2D' | 'T1D' | 'Pre-DM';

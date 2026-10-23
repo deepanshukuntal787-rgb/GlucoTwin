@@ -1,0 +1,30 @@
+{
+  "static_cols": [
+    "age",
+    "sex_female",
+    "bmi",
+    "hba1c",
+    "diabetes_type_2",
+    "duration_years",
+    "med_metformin",
+    "med_sulfonylurea",
+    "med_dpp4",
+    "med_sglt2",
+    "med_insulin",
+    "med_statin",
+    "med_ace_inhibitor",
+    "comorb_htn",
+    "comorb_dyslipidemia",
+    "comorb_ckd",
+    "comorb_neuropathy",
+    "comorb_obesity",
+    "comorb_cad",
+    "est_avg_glucose",
+    "prs_z"
+  ],
+  "glucose_mean": 140.0,
+  "glucose_std": 50.0,
+  "grid_minutes": 15,
+  "history_steps": 96,
+  "horizon_steps": 8
+}
